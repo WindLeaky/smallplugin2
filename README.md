@@ -1,5 +1,5 @@
 # Small plugin
-### functions:
+### Functions:
 * New Join and Quit messages
 * Welcomes the player personally
 ### Commands:
