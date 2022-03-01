@@ -1,0 +1,15 @@
+name: TestWindLeak
+version: '${project.version}'
+main: de.windleak.test.Main
+api-version: 1.18
+authors: [ WindLeak ]
+description: Test Plugin
+website: https://windleak.de
+
+commands:
+  date:
+    description: Zeigt das Datum an
+  hi:
+    description: Begrüßt dich
+  say:
+    description: Konsole wiederholt was
