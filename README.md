@@ -7,3 +7,7 @@
 * /date: [see the date]
 * /say
   
+### How to use:
+*1. download the TestPlugin.jar file
+*2. drag that into your plugins folder
+*3. restart server
