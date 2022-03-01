@@ -8,6 +8,6 @@
 * /say
   
 ### How to use:
-*1. download the TestPlugin.jar file
-*2. drag that into your plugins folder
-*3. restart server
+* download the TestPlugin.jar file
+* drag that into your plugins folder
+* restart server
