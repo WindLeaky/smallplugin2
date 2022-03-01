@@ -1,2 +1,9 @@
 # Small plugin
-### Minecraft plugin to say something as the console in chat via command.
+### functions:
+* New Join and Quit messages
+* Welcomes the player personally
+### Commands:
+* /hi: "hello there!"
+* /date: [see the date]
+* /say
+  
