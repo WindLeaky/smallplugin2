@@ -6,6 +6,9 @@
 ### Commands:
 * /hi: "hello there!"
 * /date: [see the date]
+* /banlist [see all banned players]
+* /ip [see the ip of the server]
+* /max
   
 ### How to use:
 * download the TestWindLeak.jar file
