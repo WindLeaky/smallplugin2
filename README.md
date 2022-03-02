@@ -5,7 +5,6 @@
 ### Commands:
 * /hi: "hello there!"
 * /date: [see the date]
-* /say
   
 ### How to use:
 * download the TestPlugin.jar file
