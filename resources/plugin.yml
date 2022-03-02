@@ -1,0 +1,27 @@
+name: TestWindLeak
+version: '${project.version}'
+main: de.windleak.test.Main
+api-version: 1.18
+authors: [ WindLeak ]
+description: Test Plugin
+website: https://windleak.de
+
+commands:
+  date:
+    description: Zeigt das Datum an
+  hi:
+    description: Begrüßt dich
+  motd:
+    description: Shows the motd
+  banlist:
+    description: shows banlist
+  online:
+    description: Shows online players
+  ip:
+    description: Shows server ip
+  maxplayers:
+    description: Shows maximum players
+  operators:
+    description: Shows operators of the server
+  version:
+    description: Shows the version
