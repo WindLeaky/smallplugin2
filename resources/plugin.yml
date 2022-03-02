@@ -8,9 +8,9 @@ website: https://windleak.de
 
 commands:
   date:
-    description: Zeigt das Datum an
+    description: shows the date
   hi:
-    description: Begrüßt dich
+    description: says hello
   motd:
     description: Shows the motd
   banlist:
