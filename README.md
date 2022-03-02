@@ -4,11 +4,13 @@
 * Welcomes the player personally
 * a lot of commands
 ### Commands:
-* /hi: "hello there!"
-* /date: [see the date]
-* /banlist [see all banned players]
-* /ip [see the ip of the server]
-* /max
+* /banlist [Shows the banlist]
+* /date [Shows the date]
+* /hi [Says hello to you]
+* /maxplaysers [Shows maxium players of the server]
+* /motd [Shows the current motd]
+* /online [Shows online players]
+* /operators [Shows operators of the server]
   
 ### How to use:
 * download the TestWindLeak.jar file
