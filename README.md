@@ -2,6 +2,7 @@
 ### Functions:
 * New Join and Quit messages
 * Welcomes the player personally
+* a lot of commands
 ### Commands:
 * /hi: "hello there!"
 * /date: [see the date]
