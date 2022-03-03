@@ -15,7 +15,7 @@
 * /vanish [Get yourself into vanish (invisible)]
 * /unvanish [Get yourself out of vanish]
 * /name [Give your self a fancy name. Usage-> /name {name} {color e.g. GREEN, RED, BLUE, YELLOW...}]
-* /namreset [Reset your name to default one]
+* /namereset [Reset your name to default one]
 * /backpack [Gives you a backpack to use]
   
 ### How to use:
