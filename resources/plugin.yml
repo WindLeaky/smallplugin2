@@ -1,0 +1,41 @@
+name: TestWindLeak
+version: '${project.version}'
+main: de.windleak.test.Main
+api-version: 1.18
+authors: [ WindLeak ]
+description: Test Plugin
+website: https://windleak.de
+
+commands:
+  date:
+    description: Shows the date.
+  hi:
+    description: Says hello to you.
+  motd:
+    description: Shows the current motd.
+  banlist:
+    description: Shows banlist.
+  online:
+    description: Shows online players.
+  ip:
+    description: Shows server ip.
+  maxplayers:
+    description: Shows maximum players of the server.
+  operators:
+    description: Shows operators of the server.
+  vanish:
+    description: Get yourself into vanish (invisible).
+  unvanish:
+    description: Get yourself out of vanish.
+  name:
+    description: Give your self a fancy name. Usage-> /name [name] [color e.g. GREEN, RED, BLUE, YELLOW...]
+  namereset:
+    description: Reset your name to default one.
+  backpack:
+    description: Gives you a backpack to use.
+  health:
+    description: Changes your health.
+  food:
+    description: Changes your food level.
+  level:
+    description: Changes your experience level.
