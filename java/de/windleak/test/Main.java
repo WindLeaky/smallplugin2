@@ -43,10 +43,10 @@ public final class Main extends JavaPlugin {
     }
 
     private void commandRegistration(){
-        getCommand( "date").setExecutor(new DateCommand());
-        getCommand( "hi").setExecutor(new HiCommand());
-        getCommand( "motd").setExecutor(new MotdCommand());
-        getCommand( "banlist").setExecutor(new BanlistCommand());
+        getCommand("date").setExecutor(new DateCommand());
+        getCommand("hi").setExecutor(new HiCommand());
+        getCommand("motd").setExecutor(new MotdCommand());
+        getCommand("banlist").setExecutor(new BanlistCommand());
         getCommand("online").setExecutor(new OnlineCommand());
         getCommand("ip").setExecutor(new IpCommand());
         getCommand("maxplayers").setExecutor(new MaxplayersCommand());
